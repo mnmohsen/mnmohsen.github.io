@@ -31,13 +31,13 @@ resume-url: https://drive.google.com/file/d/1lgEQH_VtjdEKrzpgrw9KUuoCjqolOc-Y/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/mohamad-mohsen-521b31308/
+  linkedin: https://www.linkedin.com/in/mohamad-mohsen-521b31308?trk=people-guest_people_search-card
   github: https://github.com/mnmohsen   # https://github.com/{your url slug} 
   stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
-  instagram: https://www.instagram.com/moem1885/
+  instragram: https://www.instagram.com/moem1885/
   youtube:           # https://youtube.com/@{your url slug} 
   discord:            # https://discord.com/users/{your url slug} 
   bluesky:           # https://bsky.app/profile/{your url slug} 
