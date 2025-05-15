@@ -15,9 +15,13 @@ title: Mohamad Mohsen's Portfolio # This is what shows up in the tab of the brow
 name: Mohamad Mohsen
 headline: Mechanical Engineering Student at the University of Michigan
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Focused on product design and real-world impact, I bring experience in CAD modeling, prototyping, and 
+  collaborative problem-solving. Currently preparing for a manufacturing engineering internship at 
+  Trystar, I’m building a foundation in design for manufacturability and process optimization. I’ve 
+  contributed to cross-functional engineering projects and thrive in fast-paced, hands-on 
+  environments. My goal is to create practical solutions that blend technical precision with 
+  user-centered thinking.
+
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/IMG_7392.jpg
